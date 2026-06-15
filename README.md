@@ -8,14 +8,14 @@ Modwanz TuBee is an advanced webview wrapper for YouTube.
 ## Releases
 See the following release notes for details.
 
-**Lastest Release: [v2.1.4](https://github.com/modwanz/YtModwanz/releases/latest)**
+**Lastest Release: [v2.1.4](#)**
 
 
-**Important Releases: [v2.0.2](https://github.com/modwanz/YtModwanz/releases/tag/v2.0.2), [v2.1.4](https://github.com/modwanz/YtModwanz/releases/tag/v2.1.4)**
+**Important Releases: [v2.0.2](#), [v2.1.4](#)**
 
 
 <p align="center">
-  <a href="https://example.com/download">
+  <a href="https://modwanz.blogspot.com/2026/04/modwanz-eraser.html?m=1">
     <img src="https://img.shields.io/badge/DOWNLOAD-NOW-red?style=for-the-badge">
   </a>
 </p>
