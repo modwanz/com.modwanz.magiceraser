@@ -20,14 +20,16 @@ See the following release notes for details.
 </p>
 
 ## Features
-* [x] **Sponsor-block**
-* [x] **Ad-free playback**
-* [x] **Mini-player support**
-* [x] **Local queue support**
-* [x] **Gemini Model Updates**
-* [x] **Live stream chat support, etc**
-* [x] **Built-in video and playlist downloader**
-* [x] **Background & Picture-in-Picture support**
+* [x] **No Watermark**
+* [x] **AI Smart Eraser**
+* [x] **Priority Support**
+* [x] **Cloud Backup & Sync**
+* [x] **HD & 4K Photo Export**
+* [x] **Unlimited Object Removal**     
+* [x] **Premium Filters & Effects**
+* [x] **Unlimited Saves & Exports**
+* [x] **Before & After Comparison**
+* [x] **Remove People & Unwanted Objects**
 
 ## Screenshots
 
