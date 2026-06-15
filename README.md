@@ -31,8 +31,8 @@ See the following release notes for details.
 ## Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee1.webp" width="45%" />
-  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee2.webp" width="45%" />
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/unnamed.webp" width="45%" />
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/unnamed%20(1).webp" width="45%" />
 </p>
 
 <p align="center">
