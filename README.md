@@ -46,8 +46,8 @@ See the following release notes for details.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee3.webp" width="45%" />
-  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee4.webp" width="45%" />
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/unnamed%20(6).webp" width="45%" />
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/unnamed%20(7).webp" width="45%" />
 </p>
 
 
