@@ -24,11 +24,11 @@ See the following release notes for details.
 * [x] **AI Smart Eraser**
 * [x] **Priority Support**
 * [x] **Cloud Backup & Sync**
-* [x] **HD & 4K Photo Export**
-* [x] **Unlimited Object Removal**     
+* [x] **HD & 4K Photo Export** 
 * [x] **Premium Filters & Effects**
+* [x] **Unlimited Object Removal**
 * [x] **Unlimited Saves & Exports**
-* [x] **Before & After Comparison**
+* [x] **Before & After Comparison**    
 * [x] **Remove People & Unwanted Objects**
 
 ## Screenshots
