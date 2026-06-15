@@ -13,11 +13,10 @@ See the following release notes for details.
 
 **Important Releases: [3.1.8 - modwanz](#), [3.2.9 - modwanz](#)**
 
-
 <p align="center">
-  <a href="https://modwanz.blogspot.com/2026/04/modwanz-eraser.html?m=1">
-    <img src="https://img.shields.io/badge/DOWNLOAD-NOW-red?style=for-the-badge">
-  </a>
+<a href="https://modwanz.blogspot.com/2026/04/modwanz-eraser.html?m=1">
+<img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android">
+</a>
 </p>
 
 ## Features
