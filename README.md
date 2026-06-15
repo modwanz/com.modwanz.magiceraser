@@ -3,7 +3,7 @@
 <h1>Modwanz Eraser</h1>
   
 </div>
-Modwanz TuBee is an advanced webview wrapper for YouTube.
+Modwanz Eraser : Remove Annoying Objects in a Flash. ✨
 
 ## Releases
 See the following release notes for details.
